@@ -10,7 +10,11 @@ Starting points for vue apps
 ### NUXT version
 [Visit](https://github.com/LeonardoDalessandro/NUXTstart)
 
+next step => grouping custom core & copy base components from vue3 version
+
 ---
 
 ### VUE3 viersion
-[Visit](#)
+[Visit](https://github.com/LeonardoDalessandro/VUE3-starter)
+
+next step => create more base components & install service dependencies
