@@ -14,7 +14,7 @@ next step => grouping custom core & copy base components from vue3 version
 
 ---
 
-### VUE3 viersion
+### VUE3 version
 [Visit](https://github.com/LeonardoDalessandro/VUE3-starter)
 
 next step => create more base components & install service dependencies
